@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "QR Code Reader";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<!-- QR kodu okumak için bir video elementi oluşturun -->
+<video id="qr-video" width="100%" height="100%" autoplay></video>
+
+<!-- QR kodu okumak için bir canvas elementi oluşturun -->
+<canvas id="qr-canvas" style="display:none;"></canvas>
+
+<!-- JavaScript dosyasını yükleyin -->
+<script src="~/js/read-qrcode.js"></script>
