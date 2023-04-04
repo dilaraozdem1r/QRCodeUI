@@ -3,7 +3,6 @@ using AForge.Video.DirectShow;
 using System.Drawing;
 
 
-
 namespace QRCodeUI
 
 {

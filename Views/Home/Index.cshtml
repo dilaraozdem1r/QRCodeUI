@@ -1,18 +1,31 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "QR Code Generating Interface";
 }
+<div class="text-center mt-5">
+    <form asp-action="RunCreateQr" method="post" class="needs-validation" novalidate>
+        <div class="mb-3">
+            <label for="name" class="form-label">Name</label>
+            <input type="text" id="name" name="name" class="form-control" required>
+            <div class="invalid-feedback">
+                Enter a valid name
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="email" class="form-label">E-mail</label>
+            <input type="email" id="email" name="email" class="form-control" required>
+            <div class="invalid-feedback">
+                Enter a valid e-mail
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary ">Create QR</button>
+    </form>
 
-<div class="text-center">
-    <form asp-action="ProcessForm" method="post">
-        <label for="name">Adınız:</label>
-        <input type="text" id="name" name="name" />
-        <br />
-        <label for="email">E-posta Adresiniz:</label>
-        <input type="email" id="email" name="email" />
-        <br />
-        <button type="submit">Gönder</button>
-    </form>
-    <form asp-action="RunQRScanner" method="post">
-        <button type="submit">QR Okut</button>
-    </form>
+    
+    @if (ViewBag.BarcodeImage != null)
+    {
+        <div>
+            <img src="data:image/png;base64,@ViewBag.BarcodeImage" alt="QR Code">
+        </div>
+    }
+
 </div>

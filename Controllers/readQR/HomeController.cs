@@ -19,7 +19,12 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult ScanQr()
+    {
+        return View();
+    }
+
+      public IActionResult CreateQr()
     {
         return View();
     }
@@ -39,6 +44,17 @@ public IActionResult RunQRScanner()
     // İşlem tamamlandığında, kullanıcıyı başka bir sayfaya yönlendirebilirsiniz.
     return RedirectToAction("Index"); // Örnek olarak, ana sayfaya yönlendirme yapıldı.
 }
+
+public IActionResult RunCreateQr(string name, string email)
+{
+    var qrCodeResult = QRCreator.CreateQr(name, email);
+
+        // QR kod tarayıcı işlemini burada gerçekleştirin.
+        // Gerekirse, program.cs dosyasından ilgili sınıf ve metodları çağırarak kullanabilirsiniz.
+        return qrCodeResult;
+        // İşlem tamamlandığında, kullanıcıyı başka bir sayfaya yönlendirebilirsiniz.
+}
+
 
 
 }
