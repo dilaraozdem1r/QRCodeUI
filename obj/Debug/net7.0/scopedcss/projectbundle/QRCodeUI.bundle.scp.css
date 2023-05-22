@@ -6,10 +6,11 @@ a.navbar-brand[b-023mgjo8gw] {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  color:black;
 }
 
 a[b-023mgjo8gw] {
-  color: #0077cc;
+  color: black;
 }
 
 .btn-primary[b-023mgjo8gw] {
@@ -45,5 +46,6 @@ button.accept-policy[b-023mgjo8gw] {
   bottom: 0;
   width: 100%;
   white-space: nowrap;
-  line-height: 60px;
+  line-height:60px;
+
 }

@@ -1,0 +1,189 @@
+﻿@{
+    ViewData["Title"] = "Create QR";
+}
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+</head>
+
+<body>
+  <div class="d-flex align-items-center justify-content-center" style="height: 100vh;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9">
+                <div class="text-center mt-2">
+                    <form asp-action="RunCreateQr" method="post" class="needs-validation" novalidate>
+                        
+                        <div class="mb-3">
+                            <label for="url" class="form-label text-muted">URL</label>
+                            <div>
+                             <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</button>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="#">Another action</a>
+      <a class="dropdown-item" href="#">Something else here</a>
+      <div role="separator" class="dropdown-divider"></div>
+      <a class="dropdown-item" href="#">Separated link</a>
+    </div>
+                            </div>
+                            <div class="invalid-feedback">
+                                Enter a valid data
+                            </div>
+                        </div>
+                        
+
+                        <div class="mb-3">
+                            <label for="name" class="form-label text-muted">Name</label>
+                            <input type="text" id="name" name="name" class="form-control" required>
+                            <div class="invalid-feedback">
+                                Enter a valid name
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="date" class="form-label text-muted">Date Of Birth</label>
+                            <input type="date" id="date" name="date" class="form-control" required>
+                            <div class="invalid-feedback">
+                                Enter a valid data
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="gender" class="form-label text-muted">Gender</label>
+                            <div>
+                                <select class="w-100 form-select" id="gender" name="gender">
+                                    <option value="male"> Male </option>
+                                    <option value="female"> Female </option>
+                                </select>
+                            </div>
+                            <div class="invalid-feedback">
+                                Enter a valid data
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="address" class="form-label text-muted">Address</label>
+                            <input type="address" id="address" name="address" class="form-control" required>
+                            <div class="invalid-feedback">
+                                Enter a valid Address
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="email" class="form-label text-muted">E-mail</label>
+                            <input type="email" id="email" name="email" class="form-control" required>
+                            <div class="invalid-feedback">
+                                Enter a valid e-mail
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="tel" class="form-label text-muted">Phone Number</label>
+                            <input id="tel" name="tel" class="form-control" required>
+                            <div class="invalid-feedback">
+                                Enter a valid phone number
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="job" class="text-muted">Job</label>
+                            <input type="text" name="job" class="form-control" id="job">
+                            <div class="invalid-feedback">
+                                Enter a valid job
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="education" class="form-label text-muted">Education</label>
+                            <div>
+                            <select name="education" class="form-select w-100" id="education">
+                                    <option value="highSchool">High school</option>
+                                    <option value="bachelor">Bachelor</option>
+                                    <option value="master">Master</option>
+                                    <option value="doctorate">Doctorate</option>
+                                </select>
+                            </div>
+                            <div class="invalid-feedback">
+                                Enter a valid data
+                            </div>
+                        </div>
+                        <div class="form-group mb-5">
+                            <label for="extraField" class="text-muted">Extra Field</label>
+                            <textarea class="form-control" id="extraField" rows="3" name="extraField"></textarea>
+                        </div>
+                        <button type="submit" class="btn p-2 px-4" id="createQrButton" style="background-color: #7DB9B6; color: white;">Create QR</button>
+                    </form>
+
+                    <div class="modal fade" id="qrModal" tabindex="-1" aria-labelledby="qrModalLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="qrModalLabel">QR Code</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    @if (!string.IsNullOrEmpty(ViewBag.BarcodeImage))
+                                    {
+                                        <img id="qrImage" src="data:image/png;base64,@ViewBag.BarcodeImage" alt="QR Code">
+                                    }
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                    @if (!string.IsNullOrEmpty(ViewBag.BarcodeImage))
+                                    {
+                                        <a href="data:image/png;base64,@ViewBag.BarcodeImage" download="QRCode.png" class="btn btn-primary">Download QR Code</a>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+
+@section Scripts {
+    <script>
+        var formSubmitted = '@ViewBag.FormSubmitted' == 'True';
+
+        @if (!string.IsNullOrEmpty(ViewBag.BarcodeImage))
+        {
+            <text>
+            $(document).ready(function() {
+                if (formSubmitted) {
+                    $('#qrModal').modal('show');
+                    formSubmitted = false;  // QR kodunu bir kere gösterdikten sonra, formSubmitted'ı false yap.
+                }
+            });
+            </text>
+        }
+    </script>
+
+    <script>
+        document.getElementById("createQrButton").addEventListener("click", function() {
+            var button = this;
+            button.innerText = "Creating...";
+            button.classList.add("btn-success");
+
+            setTimeout(function() {
+                button.innerText = "Create QR";
+                button.classList.add("btn-primary");
+            }, 2000);
+        });
+    </script>
+
+    <script>
+    $(document).ready(function () {
+        $("#createQrButton").click(function (e) {
+            var isFormEmpty = false;
+            $('form.needs-validation input[required]').each(function () {
+                if ($(this).val() === "") {
+                    isFormEmpty = true;
+                }
+            });
+            if (isFormEmpty) {
+                e.preventDefault();
+                toastr.warning('Please fill out the required fields before creating a QR code.', 'Warning', {positionClass: 'toast-bottom-right mb-5'});
+            }
+        });
+    });
+    </script>
+
+}

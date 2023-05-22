@@ -1,39 +1,30 @@
 using System;
 using AForge.Video.DirectShow;
-using System.Drawing;
-
 
 namespace QRCodeUI
-
 {
     public class QRScanner
     {
-       public static void ScanQr()
-        {
+        private readonly string _camerasFilePath;
+        private readonly CameraDevice _cameraDevice;
 
-            var cameraDevice = new CameraDevice();
+        public QRScanner(string camerasFilePath)
+        {
+            _camerasFilePath = camerasFilePath;
+            _cameraDevice = new CameraDevice(camerasFilePath);
+        }
+
+        public static FilterInfo GetDeviceByIndex(int index, string camerasFilePath)
+        {
+            var cameraDevice = new CameraDevice(camerasFilePath);
             var devices = cameraDevice.GetCaptureDevices();
 
-            if (devices.Count == 0)
+            if (index >= -1 && index < devices.Count)
             {
-                Console.WriteLine("Kamera bulunamadı!");
-                return;
+                return devices[index + 1];
             }
 
-            Console.WriteLine("Kamerayı seçin:");
-            for (int i = 0; i < devices.Count; i++)
-            {
-                Console.WriteLine($"{i + 1}. {devices[i].Name}");
-            }
-
-            int selectedIndex = int.Parse(Console.ReadLine()) - 1;
-
-            var qrCodeReader = new QrCodeReader(devices[selectedIndex]);
-            qrCodeReader.StartReading();
-
-            Console.WriteLine("QR kod okuyucu çalışıyor, 'q' tuşuna basarak çıkabilirsiniz.");
-            while (Console.ReadKey().Key != ConsoleKey.Q) { }
-            qrCodeReader.StopReading();
+            throw new ArgumentOutOfRangeException(nameof(index), "Invalid index value.");
         }
     }
 }

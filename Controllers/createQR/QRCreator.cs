@@ -5,12 +5,13 @@ using System.IO;
 using ZXing;
 using ZXing.QrCode;
 using ZXing.Common;
+using QRCodeUI.Models;
 
 namespace QRCodeUI
 {
     public class QRCreator
     {
-        public static IActionResult CreateQr(string name, string email)
+        public static string CreateQr(UserInput userInput)
         {
             // QR kod oluşturmak için ZXing.Net kütüphanesini kullan
             var qrCodeWriter = new BarcodeWriterPixelData
@@ -24,7 +25,20 @@ namespace QRCodeUI
                     CharacterSet = "UTF-8" // Karakter kümesini belirtin (isteğe bağlı)
                 }
             };
-            var pixelData = qrCodeWriter.Write($"{email} {name}");
+
+            string url= userInput.Url;
+            string name = userInput.Name;
+            string date = userInput.Date;
+            string gender = userInput.Gender;
+            string address = userInput.Address;
+            string email = userInput.Email;
+            string tel = userInput.Tel;
+            string job = userInput.Job;
+            string education = userInput.Education;
+            string extraField = userInput.ExtraField;
+            
+
+            var pixelData = qrCodeWriter.Write($"Name: {name}, Date: {date}, Gender: {gender}, Address: {address}, Email: {email}, Tel: {tel}, Job: {job}, Education: {education}, Extra: {extraField}, URL: {url}");
             var barcodeBitmap = new Bitmap(pixelData.Width, pixelData.Height, PixelFormat.Format32bppArgb);
 
             for (int y = 0; y < pixelData.Height; y++)
@@ -53,7 +67,9 @@ namespace QRCodeUI
             MemoryStream ms = new MemoryStream();
             barcodeBitmap.Save(ms, ImageFormat.Png);
             byte[] barcodeBytes = ms.ToArray();
-            return new FileContentResult(barcodeBytes, "image/png");
+            string base64String = Convert.ToBase64String(barcodeBytes);
+            return base64String;
         }
+
     }
 }

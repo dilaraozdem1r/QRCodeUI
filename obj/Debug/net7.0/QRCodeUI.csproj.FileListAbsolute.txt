@@ -78,3 +78,198 @@ C:\Users\dkfb_\Desktop\csharpProject\obj\Debug\net7.0\scopedcss\projectbundle\QR
 C:\Users\dkfb_\Desktop\csharpProject\obj\Debug\net7.0\QRCodeUI.csproj.CopyComplete
 C:\Users\dkfb_\Desktop\csharpProject\obj\Debug\net7.0\QRCodeUI.genruntimeconfig.cache
 C:\Users\dkfb_\Desktop\csharpProject\obj\Debug\net7.0\ref\QRCodeUI.dll
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\QRCodeUI.staticwebassets.runtime.json
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\QRCodeUI.exe
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\QRCodeUI.deps.json
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\QRCodeUI.runtimeconfig.json
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\QRCodeUI.dll
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\QRCodeUI.pdb
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\AForge.dll
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\AForge.Video.dll
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\AForge.Video.DirectShow.dll
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\zxing.dll
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dkfb_\Desktop\C#\csharpProject\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\QRCodeUI.csproj.AssemblyReference.cache
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\QRCodeUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\QRCodeUI.AssemblyInfoInputs.cache
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\QRCodeUI.AssemblyInfo.cs
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\QRCodeUI.csproj.CoreCompileInputs.cache
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\QRCodeUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\QRCodeUI.RazorAssemblyInfo.cache
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\QRCodeUI.RazorAssemblyInfo.cs
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\staticwebassets\msbuild.QRCodeUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\staticwebassets\msbuild.build.QRCodeUI.props
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.QRCodeUI.props
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.QRCodeUI.props
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\scopedcss\bundle\QRCodeUI.styles.css
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\scopedcss\projectbundle\QRCodeUI.bundle.scp.css
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\QRCodeUI.csproj.CopyComplete
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\QRCodeUI.dll
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\refint\QRCodeUI.dll
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\QRCodeUI.pdb
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\QRCodeUI.genruntimeconfig.cache
+C:\Users\dkfb_\Desktop\C#\csharpProject\obj\Debug\net7.0\ref\QRCodeUI.dll
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\QRCodeUI.staticwebassets.runtime.json
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\QRCodeUI.exe
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\QRCodeUI.deps.json
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\QRCodeUI.runtimeconfig.json
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\QRCodeUI.dll
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\QRCodeUI.pdb
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\AForge.dll
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\AForge.Video.dll
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\AForge.Video.DirectShow.dll
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\zxing.dll
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\QRCodeUI.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\QRCodeUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\QRCodeUI.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\QRCodeUI.AssemblyInfo.cs
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\QRCodeUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\QRCodeUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\QRCodeUI.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\QRCodeUI.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\staticwebassets\msbuild.QRCodeUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\staticwebassets\msbuild.build.QRCodeUI.props
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.QRCodeUI.props
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.QRCodeUI.props
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\scopedcss\bundle\QRCodeUI.styles.css
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\scopedcss\projectbundle\QRCodeUI.bundle.scp.css
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\QRCodeUI.csproj.CopyComplete
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\QRCodeUI.dll
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\refint\QRCodeUI.dll
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\QRCodeUI.pdb
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\QRCodeUI.genruntimeconfig.cache
+C:\Users\PC\Desktop\Görsel Programlama\csharpProject-last\obj\Debug\net7.0\ref\QRCodeUI.dll
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\QRCodeUI.staticwebassets.runtime.json
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\QRCodeUI.exe
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\QRCodeUI.deps.json
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\QRCodeUI.runtimeconfig.json
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\QRCodeUI.dll
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\QRCodeUI.pdb
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\AForge.dll
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\AForge.Video.dll
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\AForge.Video.DirectShow.dll
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\zxing.dll
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dkfb_\Desktop\csharpProject-last\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\QRCodeUI.csproj.AssemblyReference.cache
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\QRCodeUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\QRCodeUI.AssemblyInfoInputs.cache
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\QRCodeUI.AssemblyInfo.cs
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\QRCodeUI.csproj.CoreCompileInputs.cache
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\QRCodeUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\QRCodeUI.RazorAssemblyInfo.cache
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\QRCodeUI.RazorAssemblyInfo.cs
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\staticwebassets\msbuild.QRCodeUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\staticwebassets\msbuild.build.QRCodeUI.props
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.QRCodeUI.props
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.QRCodeUI.props
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\scopedcss\bundle\QRCodeUI.styles.css
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\scopedcss\projectbundle\QRCodeUI.bundle.scp.css
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\QRCodeUI.csproj.CopyComplete
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\QRCodeUI.dll
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\refint\QRCodeUI.dll
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\QRCodeUI.pdb
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\QRCodeUI.genruntimeconfig.cache
+C:\Users\dkfb_\Desktop\csharpProject-last\obj\Debug\net7.0\ref\QRCodeUI.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\QRCodeUI.staticwebassets.runtime.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\QRCodeUI.exe
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\QRCodeUI.deps.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\QRCodeUI.runtimeconfig.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\QRCodeUI.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\QRCodeUI.pdb
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\AForge.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\AForge.Video.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\AForge.Video.DirectShow.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\zxing.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\QRCodeUI.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\QRCodeUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\QRCodeUI.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\QRCodeUI.AssemblyInfo.cs
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\QRCodeUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\QRCodeUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\QRCodeUI.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\QRCodeUI.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\staticwebassets\msbuild.QRCodeUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\staticwebassets\msbuild.build.QRCodeUI.props
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.QRCodeUI.props
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.QRCodeUI.props
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\scopedcss\bundle\QRCodeUI.styles.css
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\scopedcss\projectbundle\QRCodeUI.bundle.scp.css
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\QRCodeUI.csproj.CopyComplete
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\QRCodeUI.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\refint\QRCodeUI.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\QRCodeUI.pdb
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\QRCodeUI.genruntimeconfig.cache
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\csharpProject-last\obj\Debug\net7.0\ref\QRCodeUI.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\QRCodeUI.staticwebassets.runtime.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\QRCodeUI.exe
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\QRCodeUI.deps.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\QRCodeUI.runtimeconfig.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\QRCodeUI.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\QRCodeUI.pdb
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\AForge.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\AForge.Video.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\AForge.Video.DirectShow.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\zxing.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\QRCodeUI.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\QRCodeUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\QRCodeUI.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\QRCodeUI.AssemblyInfo.cs
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\QRCodeUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\QRCodeUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\QRCodeUI.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\QRCodeUI.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\staticwebassets\msbuild.QRCodeUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\staticwebassets\msbuild.build.QRCodeUI.props
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.QRCodeUI.props
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.QRCodeUI.props
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\scopedcss\bundle\QRCodeUI.styles.css
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\scopedcss\projectbundle\QRCodeUI.bundle.scp.css
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\QRCodeUI.csproj.CopyComplete
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\QRCodeUI.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\refint\QRCodeUI.dll
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\QRCodeUI.pdb
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\QRCodeUI.genruntimeconfig.cache
+C:\Users\PC\Desktop\Görsel Programlama\QRCodeUI-(FinishedProject)\QRCodeUI\obj\Debug\net7.0\ref\QRCodeUI.dll

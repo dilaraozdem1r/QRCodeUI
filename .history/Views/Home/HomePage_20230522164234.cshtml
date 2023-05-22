@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ana Sayfa</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <style>
+        /* Buton stilleri */
+
+        body{
+            background-color: #fff;
+        }
+
+        .container {
+            display: block;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            margin-top: 1rem;
+        }
+
+        .row {
+            display: flex;
+            align-items: center;
+        }
+
+        .card-body{
+            margin-top: 1.5rem;
+        }
+        .card-body p{
+            margin-top: 2rem;
+            font-size: 1.5rem;
+            }
+
+    </style>
+
+</head>
+<body>
+    <div class="d-flex justify-content-center align-items-center" style="height: 100vh;" >
+        <div class="row"> 
+        <div class="col-md-6">
+            <div class="card p-5" style="width: 30rem;
+                    height: auto;
+                    max-height: 40rem;
+                    padding-top: 3rem;
+                    border-radius: 1rem;
+                    background-color: #EAEAEA;
+                    font-weight: bold;">
+                <i class="fa-solid fa-qrcode fa-10x" style="margin-top:30px;"></i>
+                <div class="card-body text-muted">
+                    <h4>Create and Download Your Personal <span style="color:#4D455D ; font-weight:bold">QR Codes® </span>for Free!</h4>
+                    <p class="card-text">Easily create and scan QR codes.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card d-flex align-items-start justify-content-flex-start p-4" style="width: 30rem;
+                            height: auto;
+                            max-height: 40rem;
+                            margin-top: 2rem;
+                            border-radius: 1rem;
+                            background-color: #EAEAEA;
+                            font-weight: bold;
+                            font-size:20px">
+                        <h4 class="text-muted" style="font-size:20px">Create Your Own <span style="color:#7DB9B6; font-weight: bold;">QR Code</span></h4>
+                        <a asp-area="" asp-controller="Home" asp-action="Index"><button  class="btn p-2 mt-3 fw-semibold"  style="background-color: #7DB9B6; color:black; "><i class="fa-regular fa-square-plus fa-lg mx-2"></i>Create</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row"> 
+                <div class="col-md-12">
+                    <div class="card d-flex align-items-end justify-content-flex-end p-4" style="width: 30rem;
+                            height: auto;
+                            max-height: 40rem;
+                            margin-top: 2rem;
+                            border-radius: 1rem;
+                            background-color: #EAEAEA;
+                            font-weight: bold;
+                            font-size:20px">
+                        <h4 class="text-muted" style="font-size:20px">Scan <span style="color:#E96479; font-weight: bold;">QR Codes</span></h4>
+                         <a asp-area="" asp-controller="Home" asp-action="ScanQr"><button  class="btn  p-2 px-3 mt-3 fw-semibold" style="background-color: #E96479; color:black"><i class="fas fa-camera mx-2 fa-lg" >
+                        </i>Scan</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+</body>
+</html>

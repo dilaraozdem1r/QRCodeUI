@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dkfb_\\Desktop\\csharpProject\\QRCodeUI.csproj": {}
+    "C:\\Users\\PC\\Desktop\\Görsel Programlama\\QRCodeUI-(FinishedProject)\\QRCodeUI\\QRCodeUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dkfb_\\Desktop\\csharpProject\\QRCodeUI.csproj": {
+    "C:\\Users\\PC\\Desktop\\Görsel Programlama\\QRCodeUI-(FinishedProject)\\QRCodeUI\\QRCodeUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dkfb_\\Desktop\\csharpProject\\QRCodeUI.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Görsel Programlama\\QRCodeUI-(FinishedProject)\\QRCodeUI\\QRCodeUI.csproj",
         "projectName": "QRCodeUI",
-        "projectPath": "C:\\Users\\dkfb_\\Desktop\\csharpProject\\QRCodeUI.csproj",
-        "packagesPath": "C:\\Users\\dkfb_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dkfb_\\Desktop\\csharpProject\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Görsel Programlama\\QRCodeUI-(FinishedProject)\\QRCodeUI\\QRCodeUI.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Görsel Programlama\\QRCodeUI-(FinishedProject)\\QRCodeUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dkfb_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
